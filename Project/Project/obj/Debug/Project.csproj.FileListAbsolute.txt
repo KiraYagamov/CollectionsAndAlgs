@@ -1,0 +1,6 @@
+D:\C# Projects\CollectionsAndAlgs\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\C# Projects\CollectionsAndAlgs\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\C# Projects\CollectionsAndAlgs\Project\Project\bin\Debug\Project.exe
+D:\C# Projects\CollectionsAndAlgs\Project\Project\bin\Debug\Project.pdb
+D:\C# Projects\CollectionsAndAlgs\Project\Project\obj\Debug\Project.exe
+D:\C# Projects\CollectionsAndAlgs\Project\Project\obj\Debug\Project.pdb
