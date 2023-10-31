@@ -1,0 +1,6 @@
+D:\C# Projects\CollectionsAndAlgs\Lesson2_SortingAlgs\Lesson2_SortingAlgs\bin\Debug\Lesson2_SortingAlgs.exe
+D:\C# Projects\CollectionsAndAlgs\Lesson2_SortingAlgs\Lesson2_SortingAlgs\bin\Debug\Lesson2_SortingAlgs.pdb
+D:\C# Projects\CollectionsAndAlgs\Lesson2_SortingAlgs\Lesson2_SortingAlgs\obj\Debug\Lesson2_SortingAlgs.csproj.AssemblyReference.cache
+D:\C# Projects\CollectionsAndAlgs\Lesson2_SortingAlgs\Lesson2_SortingAlgs\obj\Debug\Lesson2_SortingAlgs.csproj.CoreCompileInputs.cache
+D:\C# Projects\CollectionsAndAlgs\Lesson2_SortingAlgs\Lesson2_SortingAlgs\obj\Debug\Lesson2_SortingAlgs.exe
+D:\C# Projects\CollectionsAndAlgs\Lesson2_SortingAlgs\Lesson2_SortingAlgs\obj\Debug\Lesson2_SortingAlgs.pdb
