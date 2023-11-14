@@ -1,0 +1,6 @@
+D:\C# Projects\CollectionsAndAlgs\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+D:\C# Projects\CollectionsAndAlgs\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+D:\C# Projects\CollectionsAndAlgs\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.AssemblyReference.cache
+D:\C# Projects\CollectionsAndAlgs\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\C# Projects\CollectionsAndAlgs\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+D:\C# Projects\CollectionsAndAlgs\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
